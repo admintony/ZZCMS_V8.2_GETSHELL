@@ -10,4 +10,4 @@
 ===========================================================
 
 用法及展示：
-http://admintony.com/2018/02/14/ZZCMS-v8-2-重装GETSHELL工具/
+http://admintony.com/ZZCMS-v8-2-重装GETSHELL工具.html
